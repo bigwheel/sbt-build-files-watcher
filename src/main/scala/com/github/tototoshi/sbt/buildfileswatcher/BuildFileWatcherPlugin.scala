@@ -17,7 +17,6 @@ package com.github.tototoshi.sbt.buildfileswatcher
 
 import sbt._
 import Keys._
-import scala.collection.mutable.{ Map => MutableMap }
 
 object BuildFileWatcherPlugin extends sbt.AutoPlugin {
 
